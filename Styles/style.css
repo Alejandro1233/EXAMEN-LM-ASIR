@@ -22,6 +22,7 @@ section{
     text-align: center;
     color: #3D3C40;
     background-color: #F2F2F2;
+    padding:1%;
 }
 .card {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
